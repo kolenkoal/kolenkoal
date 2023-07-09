@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Alexander Kolenko</h1>
 <h3 align="center">A student developer from Russia</h3>
-<img align="right" alt="Coding" width="400" src=«https://media.tenor.com/1Dj2LAPklWgAAAAC/kendrick-lamar-count-me-out.gif»>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/td2FXs3zGvcAAAAC/kendrick-lamar-music-video.gif">
 
 - 🌱 I’m currently learning **Node.js + Express.js**
 
