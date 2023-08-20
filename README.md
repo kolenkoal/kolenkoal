@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/td2FXs3zGvcAAAAC/kendrick-lamar-music-video.gif">
 
 
-- 🌱 I’m currently learning **Node.js + Express.js**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **kolenko.alexander0@gmail.com**
 
