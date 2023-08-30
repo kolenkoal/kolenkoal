@@ -11,7 +11,7 @@
 <a href="https://dev.to/kolenkoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kolenkoal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kolenkoal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kolenkoal" height="30" width="40" /></a>
 <a href="https://discord.gg/jabo4099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jabo4099" height="30" width="40" /></a>
-<a href="https://t.me/kolenkoa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="kolenkoal" height="30" width="40" /></a>
+<a href="https://t.me/kolenkoa" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Telegram_X_2019_Logo.svg/1200px-Telegram_X_2019_Logo.svg.png" alt="kolenkoal" height="30" width="40" /></a>
 </p>
 
 
