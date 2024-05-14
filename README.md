@@ -42,6 +42,6 @@ I'm Alex, 20 y.o. I am passionate about Backend Development, Web Development, Wo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kolenkoal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## LeetCode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kolenkoal?theme=nord&extension=activity)](https://leetcode.com/jontstaz)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kolenkoal?theme=nord&extension=activity)](https://leetcode.com/kolenkoal)
 
 
